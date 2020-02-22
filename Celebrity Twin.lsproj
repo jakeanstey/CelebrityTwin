@@ -1,0 +1,1513 @@
+{
+    "lens_id": "",
+    "document_id": "UigqYJkqhDgR8VAaQRU4",
+    "original_document_id": "_dEBwtM0wSWLZ-4TlYoE",
+    "version": "23",
+    "lastChanged": "1582383257431",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "ImageController"
+                    ],
+                    [
+                        "Images"
+                    ],
+                    [
+                        "Images",
+                        "1"
+                    ],
+                    [
+                        "Images",
+                        "10"
+                    ],
+                    [
+                        "Images",
+                        "11"
+                    ],
+                    [
+                        "Images",
+                        "12"
+                    ],
+                    [
+                        "Images",
+                        "13"
+                    ],
+                    [
+                        "Images",
+                        "14"
+                    ],
+                    [
+                        "Images",
+                        "15"
+                    ],
+                    [
+                        "Images",
+                        "16"
+                    ],
+                    [
+                        "Images",
+                        "17"
+                    ],
+                    [
+                        "Images",
+                        "18"
+                    ],
+                    [
+                        "Images",
+                        "19"
+                    ],
+                    [
+                        "Images",
+                        "2"
+                    ],
+                    [
+                        "Images",
+                        "20"
+                    ],
+                    [
+                        "Images",
+                        "21"
+                    ],
+                    [
+                        "Images",
+                        "3"
+                    ],
+                    [
+                        "Images",
+                        "4"
+                    ],
+                    [
+                        "Images",
+                        "5"
+                    ],
+                    [
+                        "Images",
+                        "6"
+                    ],
+                    [
+                        "Images",
+                        "7"
+                    ],
+                    [
+                        "Images",
+                        "9"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Raise Eyebrows Person 3.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1582379929691090:4868",
+                    "1582380838131030:3150"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1582380548617063:5722",
+                    "name": "Files\/File23.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1582380553345078:5875",
+                    "name": "Files\/File25.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1582380558168271:6038",
+                    "name": "Files\/File27.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1582380561446422:6211",
+                    "name": "Files\/File29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1582380566221063:6394",
+                    "name": "Files\/File31.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1582380571011644:6587",
+                    "name": "Files\/File33.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1582380575882398:6790",
+                    "name": "Files\/File35.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1582380721899852:1124",
+                    "name": "Files\/File37.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1582380759522534:2298",
+                    "name": "Files\/File39.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1582380759656747:2307",
+                    "name": "Files\/File41.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1582380759860133:2428",
+                    "name": "Files\/File43.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1582380760018612:2437",
+                    "name": "Files\/File45.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1582380760183700:2573",
+                    "name": "Files\/File47.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1582380760320650:2582",
+                    "name": "Files\/File49.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1582380760466412:2591",
+                    "name": "Files\/File51.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1582380760623100:2600",
+                    "name": "Files\/File53.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1582380760782880:2756",
+                    "name": "Files\/File55.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1582380760923196:2765",
+                    "name": "Files\/File57.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1582380761079074:2774",
+                    "name": "Files\/File59.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1582380761244387:2945",
+                    "name": "Files\/File61.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1582380761397017:2954",
+                    "name": "Files\/File63.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1582381049469075:8758",
+                    "name": "Files\/File65.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1582380838130653:3149",
+                "4": "1582380838131030:3150",
+                "5": "1582380838137029:3170",
+                "6": "1582380953243316:6238",
+                "7": "1582382308419308:69381"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.jpg"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.jpg"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.jpg"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.jpg"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.jpg"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.jpg"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.jpg"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.jpg"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.jpg"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.jpg"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.jpg"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.jpg"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.jpg"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.jpg"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.jpg"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.jpg"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.jpg"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.jpg"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.jpg"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.jpg"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.jpg"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.jpg"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.jpg"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.jpg"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.jpg"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.jpg"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.jpg"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.jpg"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.jpg"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.jpg"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.jpg"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.jpg"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.jpg"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.jpg"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.jpg"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.jpg"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.jpg"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.jpg"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.jpg"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.jpg"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.jpg"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.jpg"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Images\/1.jpg"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Images\/2.jpg"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Images\/3.jpg"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Images\/4.jpg"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Images\/5.jpg"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Images\/6.jpg"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Images\/7.jpg"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Images\/8.jpg"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Images\/9.jpg"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Images\/10.jpg"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Images\/11.jpg"
+                    },
+                    {
+                        "k": "34",
+                        "v": "Images\/12.jpg"
+                    },
+                    {
+                        "k": "35",
+                        "v": "Images\/13.jpg"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Images\/14.jpg"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Images\/15.jpg"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Images\/16.jpg"
+                    },
+                    {
+                        "k": "39",
+                        "v": "Images\/17.jpg"
+                    },
+                    {
+                        "k": "40",
+                        "v": "Images\/18.jpg"
+                    },
+                    {
+                        "k": "41",
+                        "v": "Images\/19.jpg"
+                    },
+                    {
+                        "k": "42",
+                        "v": "Images\/20.jpg"
+                    },
+                    {
+                        "k": "43",
+                        "v": "Images\/21.jpg"
+                    },
+                    {
+                        "k": "44",
+                        "v": "ImageController.js"
+                    },
+                    {
+                        "k": "45",
+                        "v": "Images"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "36067e914bf1ccf8ba249e57601464d6"
+                    },
+                    {
+                        "k": "4",
+                        "v": "2ec228aef877bf965bfa8b6b9a096d79"
+                    },
+                    {
+                        "k": "5",
+                        "v": "b08f0d33afca81b3cc6aedc576be5898"
+                    },
+                    {
+                        "k": "6",
+                        "v": "c39e0b85d87e0f2fb84a1c9dbd83b23c"
+                    },
+                    {
+                        "k": "7",
+                        "v": "3bdb84ef04f9e0571ed12e50f23734ce"
+                    },
+                    {
+                        "k": "8",
+                        "v": "5d47ce40c901553c8d0f177d29528500"
+                    },
+                    {
+                        "k": "9",
+                        "v": "c38c48b7deb2d9e7f498874343bc7ce7"
+                    },
+                    {
+                        "k": "10",
+                        "v": "67efc752c5307bc8b7b9ce51de89a375"
+                    },
+                    {
+                        "k": "11",
+                        "v": "6f43858251d0f5c54bb9a80de0e14e53"
+                    },
+                    {
+                        "k": "12",
+                        "v": "c448a00e6b8b7f2a0d8c21b49ebf3364"
+                    },
+                    {
+                        "k": "13",
+                        "v": "6f43858251d0f5c54bb9a80de0e14e53"
+                    },
+                    {
+                        "k": "14",
+                        "v": "67efc752c5307bc8b7b9ce51de89a375"
+                    },
+                    {
+                        "k": "15",
+                        "v": "c38c48b7deb2d9e7f498874343bc7ce7"
+                    },
+                    {
+                        "k": "16",
+                        "v": "5d47ce40c901553c8d0f177d29528500"
+                    },
+                    {
+                        "k": "17",
+                        "v": "3bdb84ef04f9e0571ed12e50f23734ce"
+                    },
+                    {
+                        "k": "18",
+                        "v": "c39e0b85d87e0f2fb84a1c9dbd83b23c"
+                    },
+                    {
+                        "k": "19",
+                        "v": "b08f0d33afca81b3cc6aedc576be5898"
+                    },
+                    {
+                        "k": "20",
+                        "v": "2ec228aef877bf965bfa8b6b9a096d79"
+                    },
+                    {
+                        "k": "21",
+                        "v": "c448a00e6b8b7f2a0d8c21b49ebf3364"
+                    },
+                    {
+                        "k": "22",
+                        "v": "36067e914bf1ccf8ba249e57601464d6"
+                    },
+                    {
+                        "k": "23",
+                        "v": "322fa7cf92f454333c6a694b7d1c2e62"
+                    },
+                    {
+                        "k": "24",
+                        "v": "36067e914bf1ccf8ba249e57601464d6"
+                    },
+                    {
+                        "k": "25",
+                        "v": "2ec228aef877bf965bfa8b6b9a096d79"
+                    },
+                    {
+                        "k": "26",
+                        "v": "b08f0d33afca81b3cc6aedc576be5898"
+                    },
+                    {
+                        "k": "27",
+                        "v": "c39e0b85d87e0f2fb84a1c9dbd83b23c"
+                    },
+                    {
+                        "k": "28",
+                        "v": "c38c48b7deb2d9e7f498874343bc7ce7"
+                    },
+                    {
+                        "k": "29",
+                        "v": "0b31dabcdd9e72c1c5a201b41e8f5af1"
+                    },
+                    {
+                        "k": "30",
+                        "v": "dd388c186a3e36d28a60142c21585fb5"
+                    },
+                    {
+                        "k": "31",
+                        "v": "22d26929a14f1849f0d8aa7761009f68"
+                    },
+                    {
+                        "k": "32",
+                        "v": "5d47ce40c901553c8d0f177d29528500"
+                    },
+                    {
+                        "k": "33",
+                        "v": "9ddd6f911586250622086fc19d566641"
+                    },
+                    {
+                        "k": "34",
+                        "v": "a6c787905386d0b20b009abb7e07dc98"
+                    },
+                    {
+                        "k": "35",
+                        "v": "06f833ae9f9d04b3f5c2fb1c36678618"
+                    },
+                    {
+                        "k": "36",
+                        "v": "67efc752c5307bc8b7b9ce51de89a375"
+                    },
+                    {
+                        "k": "37",
+                        "v": "d6a06d0c4a2035fbc68cfa611a533f5a"
+                    },
+                    {
+                        "k": "38",
+                        "v": "6f43858251d0f5c54bb9a80de0e14e53"
+                    },
+                    {
+                        "k": "39",
+                        "v": "1737932208eab2e55a4444fa5988377a"
+                    },
+                    {
+                        "k": "40",
+                        "v": "c448a00e6b8b7f2a0d8c21b49ebf3364"
+                    },
+                    {
+                        "k": "41",
+                        "v": "cb0cff9c54f83ce8b193099857e38635"
+                    },
+                    {
+                        "k": "42",
+                        "v": "9543763b70c6c82b40892accbf461fe3"
+                    },
+                    {
+                        "k": "43",
+                        "v": "3859a348c4b742a44797b3c9aee92f81"
+                    },
+                    {
+                        "k": "44",
+                        "v": "869a84e0af70a6340d6364ae2da59c2d"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-02-22T09:54:09",
+                        "name": "Public",
+                        "hash": "045cf931472f5e57cebf3099cd4a57aa",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-02-22T09:43:01",
+                                "name": "ImageController.js",
+                                "hash": "869a84e0af70a6340d6364ae2da59c2d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-02-22T09:54:09",
+                                "name": "Images",
+                                "hash": "fcd2e757ccdeea24a75d6b3dbb297780",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:04",
+                                        "name": "1.jpg",
+                                        "hash": "322fa7cf92f454333c6a694b7d1c2e62",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:53",
+                                        "name": "10.jpg",
+                                        "hash": "5d47ce40c901553c8d0f177d29528500",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:01",
+                                        "name": "11.jpg",
+                                        "hash": "9ddd6f911586250622086fc19d566641",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:07",
+                                        "name": "12.jpg",
+                                        "hash": "a6c787905386d0b20b009abb7e07dc98",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:23",
+                                        "name": "13.jpg",
+                                        "hash": "06f833ae9f9d04b3f5c2fb1c36678618",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:32",
+                                        "name": "14.jpg",
+                                        "hash": "67efc752c5307bc8b7b9ce51de89a375",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:38",
+                                        "name": "15.jpg",
+                                        "hash": "d6a06d0c4a2035fbc68cfa611a533f5a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:42",
+                                        "name": "16.jpg",
+                                        "hash": "6f43858251d0f5c54bb9a80de0e14e53",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:49",
+                                        "name": "17.jpg",
+                                        "hash": "1737932208eab2e55a4444fa5988377a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:10:56",
+                                        "name": "18.jpg",
+                                        "hash": "c448a00e6b8b7f2a0d8c21b49ebf3364",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:11:07",
+                                        "name": "19.jpg",
+                                        "hash": "cb0cff9c54f83ce8b193099857e38635",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:09",
+                                        "name": "2.jpg",
+                                        "hash": "36067e914bf1ccf8ba249e57601464d6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:11:17",
+                                        "name": "20.jpg",
+                                        "hash": "9543763b70c6c82b40892accbf461fe3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:11:25",
+                                        "name": "21.jpg",
+                                        "hash": "3859a348c4b742a44797b3c9aee92f81",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:13",
+                                        "name": "3.jpg",
+                                        "hash": "2ec228aef877bf965bfa8b6b9a096d79",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:17",
+                                        "name": "4.jpg",
+                                        "hash": "b08f0d33afca81b3cc6aedc576be5898",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:23",
+                                        "name": "5.jpg",
+                                        "hash": "c39e0b85d87e0f2fb84a1c9dbd83b23c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:26",
+                                        "name": "6.jpg",
+                                        "hash": "c38c48b7deb2d9e7f498874343bc7ce7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:32",
+                                        "name": "7.jpg",
+                                        "hash": "0b31dabcdd9e72c1c5a201b41e8f5af1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:37",
+                                        "name": "8.jpg",
+                                        "hash": "dd388c186a3e36d28a60142c21585fb5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:09:48",
+                                        "name": "9.jpg",
+                                        "hash": "22d26929a14f1849f0d8aa7761009f68",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-22T09:53:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "ImageController",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "uid": "1582381049469075:8758",
+                        "fileId": "65",
+                        "originalId": "18446744073709551615",
+                        "publicId": "44",
+                        "source": "C:\/Users\/Gaming PC\/AppData\/Local\/Temp\/Lens Studio-TqUZhx\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Images",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "45",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "1",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "uid": "1582380548617063:5722",
+                                "fileId": "23",
+                                "originalId": "24",
+                                "publicId": "23",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/1.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1582380553345078:5875",
+                                "fileId": "25",
+                                "originalId": "26",
+                                "publicId": "24",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/2.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "3",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1582380558168271:6038",
+                                "fileId": "27",
+                                "originalId": "28",
+                                "publicId": "25",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/3.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "4",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "uid": "1582380561446422:6211",
+                                "fileId": "29",
+                                "originalId": "30",
+                                "publicId": "26",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/4.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "5",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "uid": "1582380566221063:6394",
+                                "fileId": "31",
+                                "originalId": "32",
+                                "publicId": "27",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/5.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "6",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "25",
+                                "dependency": "0",
+                                "uid": "1582380571011644:6587",
+                                "fileId": "33",
+                                "originalId": "34",
+                                "publicId": "28",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/6.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "7",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "uid": "1582380575882398:6790",
+                                "fileId": "35",
+                                "originalId": "36",
+                                "publicId": "29",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/7.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "8",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "27",
+                                "dependency": "0",
+                                "uid": "1582380721899852:1124",
+                                "fileId": "37",
+                                "originalId": "38",
+                                "publicId": "30",
+                                "source": "C:\/Users\/Gaming PC\/AppData\/Local\/Temp\/Lens Studio-ZqXZcg\/Public\/8.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "9",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "28",
+                                "dependency": "0",
+                                "uid": "1582380759522534:2298",
+                                "fileId": "39",
+                                "originalId": "40",
+                                "publicId": "31",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/9.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "10",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "29",
+                                "dependency": "0",
+                                "uid": "1582380759656747:2307",
+                                "fileId": "41",
+                                "originalId": "42",
+                                "publicId": "32",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/10.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "11",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "uid": "1582380759860133:2428",
+                                "fileId": "43",
+                                "originalId": "44",
+                                "publicId": "33",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/11.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "12",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "31",
+                                "dependency": "0",
+                                "uid": "1582380760018612:2437",
+                                "fileId": "45",
+                                "originalId": "46",
+                                "publicId": "34",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/12.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "13",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "uid": "1582380760183700:2573",
+                                "fileId": "47",
+                                "originalId": "48",
+                                "publicId": "35",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/13.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "14",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "33",
+                                "dependency": "0",
+                                "uid": "1582380760320650:2582",
+                                "fileId": "49",
+                                "originalId": "50",
+                                "publicId": "36",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/14.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "15",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "uid": "1582380760466412:2591",
+                                "fileId": "51",
+                                "originalId": "52",
+                                "publicId": "37",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/15.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "16",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "uid": "1582380760623100:2600",
+                                "fileId": "53",
+                                "originalId": "54",
+                                "publicId": "38",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/16.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "17",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "uid": "1582380760782880:2756",
+                                "fileId": "55",
+                                "originalId": "56",
+                                "publicId": "39",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/17.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "18",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "37",
+                                "dependency": "0",
+                                "uid": "1582380760923196:2765",
+                                "fileId": "57",
+                                "originalId": "58",
+                                "publicId": "40",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/18.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "19",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "uid": "1582380761079074:2774",
+                                "fileId": "59",
+                                "originalId": "60",
+                                "publicId": "41",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/19.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "20",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "uid": "1582380761244387:2945",
+                                "fileId": "61",
+                                "originalId": "62",
+                                "publicId": "42",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/20.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "21",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "40",
+                                "dependency": "0",
+                                "uid": "1582380761397017:2954",
+                                "fileId": "63",
+                                "originalId": "64",
+                                "publicId": "43",
+                                "source": "R:\/media\/shared\/Snapchat\/SkillShare\/Bring your lens to life\/Project\/Public\/21.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
